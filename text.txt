@@ -1,0 +1,5 @@
+Pisang,Apel
+panjang,lebar
+panjang,sedang,Pisang
+panjang,pendek,Pisang
+pendek,pendek,Apel
